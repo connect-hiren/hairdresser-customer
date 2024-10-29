@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "165175339298",
+    "firebase_url": "https://hairdresser-3491b.firebaseio.com",
+    "project_id": "hairdresser-3491b",
+    "storage_bucket": "hairdresser-3491b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165175339298:android:563605b4b2cac43e0f5d7b",
+        "android_client_info": {
+          "package_name": "sa.net.dc.hdclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165175339298-2o05frfoq2iafi2acv9h12la244lq657.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn3HTzTOqTK652VLsmneP_v3IR73xfJzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165175339298-2o05frfoq2iafi2acv9h12la244lq657.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165175339298:android:0cabd756e44716e90f5d7b",
+        "android_client_info": {
+          "package_name": "sa.net.dc.hdspecialist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165175339298-2o05frfoq2iafi2acv9h12la244lq657.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn3HTzTOqTK652VLsmneP_v3IR73xfJzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165175339298-2o05frfoq2iafi2acv9h12la244lq657.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

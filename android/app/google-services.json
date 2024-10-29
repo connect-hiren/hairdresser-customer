@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824162126654",
+    "project_id": "hdclient-3c355",
+    "storage_bucket": "hdclient-3c355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824162126654:android:e62b3321fc44ff15cdfa6f",
+        "android_client_info": {
+          "package_name": "sa.net.dc.hdclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDljEPAaDmC_AErSg5fJl6ZavbXCggMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824162126654:android:2c0a309360bb4e25cdfa6f",
+        "android_client_info": {
+          "package_name": "sa.net.dc.hdspecialist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDljEPAaDmC_AErSg5fJl6ZavbXCggMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
